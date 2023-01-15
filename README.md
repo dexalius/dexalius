@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JavaScript, React, Python**
+- 💬 Ask me about **JavaScript, CSS, React, Python**
 
 - 📫 How to reach me **dhany.af25@gmail.com**
 
