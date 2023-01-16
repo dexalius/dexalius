@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dexalius" target="blank"><img src="https://img.shields.io/twitter/follow/dexalius?logo=twitter&style=for-the-badge" alt="dexalius" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Flutter**
 
 - 💬 Ask me about **JavaScript, CSS, React, Python**
 
